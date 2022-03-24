@@ -1,5 +1,5 @@
-const description = "Rodney's Roadhouse";
-const baseUri = "ipfs://QmdADtqNyPuNvzqdydekUAraX93ZvGUp4kaLLsp1M9JPGR";
+const description = "X";
+const baseUri = "ipfs://X";
 
 const layerConfigurations = [
   {
@@ -10,7 +10,7 @@ const layerConfigurations = [
       { name: "RODNEYHEAD" },
       { name: "RODNEYEYES" },
       { name: "RODNEYSTACHE" },
-      { name: "RODNEYBALLS" },
+      { name: "RODNEY" },
     ],
   },
 ];
