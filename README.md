@@ -1,5 +1,9 @@
-# Welcome to HashLips 👄
+# Welcome to clone from original hashlips.  Code was modified to generate art for another project.  layers of that project have been omitted from GIT hub for privacy reasons (the project has not launched yet)
 
+many files removed and generating code modified for another project.   Current version here will likely not stand up - just including on GIT to sample DEV work
+
+
+# Reproduced from Original 
 All the code in these repos was created and explained by HashLips on the main YouTube channel.
 
 To find out more please visit:
@@ -10,8 +14,6 @@ To find out more please visit:
 
 
 # HashLips Art Engine 🔥
-
-![](https://github.com/HashLips/hashlips_art_engine/blob/main/banner.png)
 
 Create generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js and yarn installed.
 
@@ -34,5 +36,3 @@ Alternatively you can run this command if you have node installed.
 ```sh
 npm install
 ```
-##
-many files removed and generating code modified for another project.   Current version here will likely stand up - just including on GIT to sample DEV work
